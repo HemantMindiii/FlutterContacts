@@ -49,6 +49,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.5"
+  emoji_regex:
+    dependency: "direct main"
+    description:
+      name: emoji_regex
+      sha256: "4c1afd9bca35e13455d7f770e65dfe1ccd71739ece3faf5dfc6d6a800c9163e9"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.4"
   fake_async:
     dependency: transitive
     description:
